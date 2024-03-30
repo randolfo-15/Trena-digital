@@ -40,5 +40,5 @@ que apresentam as vantagens e desvantagens de uso de cada módulo,observado que 
 
 ## Referencias
 
-- [Arduíno](https://docs.arduino.cc/)
-- [Artigo](https://sol.sbc.org.br/index.php/erbase/article/view/8535)
+- [Arduíno, Documentação oficial do arduino](https://docs.arduino.cc/)
+- [Artigo, Desenvolvimento de uma Trena Digital de Baixo Custo Utilizando Arduino e Sensor Ultrassônico. ](https://sol.sbc.org.br/index.php/erbase/article/view/8535)
