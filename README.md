@@ -1,7 +1,9 @@
 # Trena Digital
 
-![Trena](trenapng)                                                                                                
-## Propósito                                                                                                       
+![Trena](trena.png)
+
+## Propósito                                                                                              
+
 O projeto trena digital tem a finalidade de criar uma pesquisa quantitativa que demonstra seus resultados,
 através de gráficos, e tabelas. Usaremos como instrumento de medição um protótipo feito pela plataforma
 arduino  com os módulos  de infravermelho e sonar.
@@ -29,11 +31,12 @@ Em um ambiente fechado o usuário devera testar nosso protótipo em diferentes s
 Posteriormente a essa etapa analisamos os dados, por meio do excel, gerando gráficos e planilhas,
 que apresentam as vantagens e desvantagens de uso de cada módulo,observado que checaremos:
 
-+ Margem erro, ou precisão de medição.
-+ Alcance de medida.
-+ Interferências ambientais.
-+ Consumo energético.
-+ Tempo de resposta de medição.
+### Tópicos 
+    - Margem erro, ou precisão de medição.
+    - Alcance de medida.
+    - Interferências ambientais.
+    - Consumo energético.
+    - Tempo de resposta de medição.
 
 ## Referencias
 
