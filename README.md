@@ -15,7 +15,7 @@ distinta, estamos trabalhando com luz e som, logo a abordagem de tratamento de d
 vantagens e desvantagens dos diferentes módulos em situações concorrentes.
 
 ## Procedimentos
-![Circuito](circuito.png)
+
 ### Itens 
     - Aplicativo trena digital.
     - Nosso protótipo de trena fisico.
