@@ -1,4 +1,3 @@
-# Met - Elect
 # Trena Digital
 
 ![Trena](trena.png)
