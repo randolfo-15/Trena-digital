@@ -27,8 +27,14 @@ th, td {
     <td> 20/03 </td>
   </tr>
   <tr>
-    <td> Escolha do time </td>
+    <td> Escolha do tema </td>
     <td> 27/03</td>
+  </tr>
+  <tr>
+   </tr>
+  <tr>
+    <td> Reunião </td>
+    <td> 31/03</td>
   </tr>
   <tr>
     <td> Apresentação da proposta </td>
